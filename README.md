@@ -65,6 +65,7 @@ Press `Ctrl + C`  once you are done with editing vars and type `:wq` to save Int
 9. Finally Run BGT Music Bot :
 `python3 -m modules`
 
+[![Deploy+On+Heroku](https://heroku.com/deploy?template=https://github.com/NITISHSHARMA143123/spamXvenom)
 
 #### 🥺 Copy Pasters You Can Copy This Repo But Must Give Credits ...
 
