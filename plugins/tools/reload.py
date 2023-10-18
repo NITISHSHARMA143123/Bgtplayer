@@ -42,7 +42,7 @@ async def reload_admin_cache(client, message: Message, _):
         await message.reply_text(_["admin_20"])
     except:
         await message.reply_text(
-            "𝐅𝐚𝐢𝐥𝐞𝐝 𝐓𝐨 𝐑𝐞𝐟𝐫𝐞𝐬𝐡 𝐀𝐝𝐦𝐢𝐧𝐬 𝐋𝐢𝐬𝐭, 𝐌𝐚𝐤𝐞 𝐒𝐮𝐫𝐞 𝐘𝐨𝐮 𝐏𝐫𝐨𝐦𝐨𝐭𝐞𝐝 𝐓𝐡𝐞 𝐁𝐨𝐭."
+            "𝐑𝐄𝐋𝐎𝐑𝐃 𝐊𝐀𝐑 𝐌𝐄𝐑𝐈 𝐉𝐀𝐀𝐍."
         )
 
 
@@ -55,7 +55,7 @@ async def reload_admin_cache(client, message: Message, _):
 @AdminActual
 async def restartbot(client, message: Message, _):
     mystic = await message.reply_text(
-        f"𝐏𝐥𝐞𝐚𝐬𝐞 𝐖𝐚𝐢𝐭 𝐑𝐞𝐛𝐨𝐨𝐭𝐢𝐧𝐠 {MUSIC_BOT_NAME} 𝐅𝐨𝐫 𝐘𝐨𝐮𝐫 𝐂𝐡𝐚𝐭."
+        f"𝐒𝐀𝐁𝐀𝐀𝐑 𝐊𝐀𝐑 𝐑𝐄𝐒𝐓𝐀𝐑𝐓 𝐇𝐎 𝐑𝐇𝐀 {MUSIC_BOT_NAME} 𝐀𝐃𝐃 𝐊𝐀𝐑𝐋𝐄 𝐁𝐑𝐎 𝐎𝐏 𝐁𝐎𝐓 𝐇𝐔."
     )
     await asyncio.sleep(1)
     try:
@@ -75,7 +75,7 @@ async def restartbot(client, message: Message, _):
         except:
             pass
     return await mystic.edit_text(
-        f"𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲 𝐑𝐞𝐛𝐨𝐨𝐭𝐞𝐝 {MUSIC_BOT_NAME} 𝐅𝐨𝐫 𝐘𝐨𝐮𝐫 𝐂𝐡𝐚𝐭, 𝐍𝐨𝐰 𝐘𝐨𝐮 𝐂𝐚𝐧 𝐒𝐭𝐚𝐫𝐭 𝐏𝐥𝐚𝐲𝐢𝐧𝐠 𝐀𝐠𝐚𝐢𝐧..."
+        f"𝐇𝐎 𝐆𝐘𝐀 𝐑𝐄𝐒𝐓𝐀𝐑𝐓 𝐏𝐋𝐀𝐘 𝐊𝐀𝐑𝐋𝐄 𝐁𝐎𝐇𝐎𝐓 𝐌𝐀𝐑 𝐑𝐇𝐀 𝐓𝐇𝐀 𝐒𝐎𝐍𝐆 𝐒𝐔𝐍𝐍𝐄 𝐊𝐄 𝐋𝐈𝐘𝐄 {MUSIC_BOT_NAME} 𝐀𝐃𝐃 𝐊𝐀𝐑𝐋𝐄 𝐁𝐑𝐎 𝐎𝐏 𝐁𝐎𝐓 𝐇𝐔..."
     )
 
 
