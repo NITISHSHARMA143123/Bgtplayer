@@ -1,12 +1,1 @@
-API_ID=6435225
-API_HASH="4e984ea35f854762dcde906dce426c2d"
-BOT_TOKEN="6574713423:AAHZC37tNSDpiVGmMcGHghI9dfcYIyFB1QU"
-MONGO_DB_URI="mongodb+srv://ravi:ravi12345@cluster0.hndinhj.mongodb.net/?retryWrites=true&w=majority"
-LOG_GROUP_ID=-1001851673261
-MUSIC_BOT_NAME="Cocktail x music"
-STRING_SESSION="BQAtkeJXvMmuuhtoSEste0uxz09lM2DZP8NAzCD96YBpH2qe2_0Smd-7eOYAm7NTb58dI6L7JXBtgq60NuSkiFyptHI2M6jnGrEli6kgYzTvIn7IAysLn3Er4ns_i8QaB6pD73mf4L_y3Q4Q9phVkBtVgatNLoRPM_ooYZCP8mIrp1lnXPmKt3fuDW463yZON1doxz-PbSYgS-LEEDZPfU_2ycX-0NrAHTuizNwDeClwQceJqHIbwT-Ue2ohP8_nEaaVfbPK0hAk6kpSbyz5JZ9xgw_d16XAYxSMcHKADYyoqAcxCoTVrE51jQMDVmwJNR2SREOZhMQS3VfwDX90CiTjAAAAAYKPTWcA"
-OWNER_ID=6383590760
-SUPPORT_GROUP="https://t.me/venom_world_chatting_club"
-SUPPORT_CHANNEL="venom_World_support"
-START_IMG_URL="https://graph.org/file/8425f8a9fbd9232c74388.jpg"
-PING_IMG_URL="https://graph.org/file/f2555a40be2a2cd5d3fd4.jpg"
+
