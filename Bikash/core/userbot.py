@@ -69,7 +69,7 @@ class Userbot(Client):
             )
             try:
                 await self.one.send_message(
-                    config.LOG_GROUP_ID, f"**» {config.MUSIC_BOT_NAME} 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 𝐨𝐧𝐞 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 :**\n\n✨ 𝐈𝐝 : `{self.one.id}`\n❄ 𝐍𝐚𝐦𝐞 : {self.one.name}\n💫 𝐔𝐬𝐞𝐫𝐧𝐚𝐦𝐞 : @{self.one.username}\n👅"
+                    config.LOG_GROUP_ID, f"**» {config.MUSIC_BOT_NAME} 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 𝐨𝐧𝐞 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 :**\n\n✨ 𝐈𝐝 : `{self.one.id}`\n❄ 𝐍𝐚𝐦𝐞 : {self.one.name}\n💫 𝐔𝐬𝐞𝐫𝐧𝐚𝐦𝐞 : @{self.one.username}"
                 )
             except:
                 LOGGER(__name__).error(
@@ -97,7 +97,7 @@ class Userbot(Client):
                 self.two.name = get_me.first_name
             try:
                 await self.two.send_message(
-                    config.LOG_GROUP_ID, f"**» {config.MUSIC_BOT_NAME} 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 𝐓𝐰𝐨 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 :**\n\n✨ 𝐈𝐝 : `{self.two.id}`\n❄ 𝐍𝐚𝐦𝐞 : {self.two.name}\n💫 𝐔𝐬𝐞𝐫𝐍𝐚𝐦𝐞 : @{self.two.username}\n👅"
+                    config.LOG_GROUP_ID, f"**» {config.MUSIC_BOT_NAME} 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 𝐓𝐰𝐨 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 :**\n\n✨ 𝐈𝐝 : `{self.two.id}`\n❄ 𝐍𝐚𝐦𝐞 : {self.two.name}\n💫 𝐔𝐬𝐞𝐫𝐍𝐚𝐦𝐞 : @{self.two.username}"
                 )
             except:
                 LOGGER(__name__).error(
@@ -128,7 +128,7 @@ class Userbot(Client):
                 self.three.name = get_me.first_name
             try:
                 await self.three.send_message(
-                    config.LOG_GROUP_ID, f"**» {config.MUSIC_BOT_NAME} 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 𝐓𝐡𝐫𝐞𝐞 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 :**\n\n✨ 𝐈𝐝 : `{self.three.id}`\n❄ 𝐍𝐚𝐦𝐞 : {self.three.name}\n💫 𝐔𝐬𝐞𝐫𝐍𝐚𝐦𝐞 : @{self.three.username}\n👅"
+                    config.LOG_GROUP_ID, f"**» {config.MUSIC_BOT_NAME} 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 𝐓𝐡𝐫𝐞𝐞 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 :**\n\n✨ 𝐈𝐝 : `{self.three.id}`\n❄ 𝐍𝐚𝐦𝐞 : {self.three.name}\n💫 𝐔𝐬𝐞𝐫𝐍𝐚𝐦𝐞 : @{self.three.username}"
                 )
             except:
                 LOGGER(__name__).error(
@@ -159,7 +159,7 @@ class Userbot(Client):
                 self.four.name = get_me.first_name
             try:
                 await self.four.send_message(
-                    config.LOG_GROUP_ID, f"**» {config.MUSIC_BOT_NAME} 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 𝐅𝐨𝐮𝐫 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 :**\n\n✨ 𝐈𝐝 : `{self.four.id}`\n❄ 𝐍𝐚𝐦𝐞 : {self.four.name}\n💫 𝐔𝐬𝐞𝐫𝐍𝐚𝐦𝐞 : @{self.four.username}\n👅"
+                    config.LOG_GROUP_ID, f"**» {config.MUSIC_BOT_NAME} 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 𝐅𝐨𝐮𝐫 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 :**\n\n✨ 𝐈𝐝 : `{self.four.id}`\n❄ 𝐍𝐚𝐦𝐞 : {self.four.name}\n💫 𝐔𝐬𝐞𝐫𝐍𝐚𝐦𝐞 : @{self.four.username}"
                 )
             except:
                 LOGGER(__name__).error(
@@ -190,7 +190,7 @@ class Userbot(Client):
                 self.five.name = get_me.first_name
             try:
                 await self.five.send_message(
-                    config.LOG_GROUP_ID, f"**» {config.MUSIC_BOT_NAME} 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 𝐅𝐢𝐯𝐞 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 :**\n\n✨ 𝐈𝐝 : `{self.five.id}`\n❄ 𝐍𝐚𝐦𝐞 : {self.five.name}\n💫 𝐔𝐬𝐞𝐫𝐍𝐚𝐦𝐞 : @{self.five.username}\n👅"
+                    config.LOG_GROUP_ID, f"**» {config.MUSIC_BOT_NAME} 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 𝐅𝐢𝐯𝐞 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 :**\n\n✨ 𝐈𝐝 : `{self.five.id}`\n❄ 𝐍𝐚𝐦𝐞 : {self.five.name}\n💫 𝐔𝐬𝐞𝐫𝐍𝐚𝐦𝐞 : @{self.five.username}\"
                 )
             except:
                 LOGGER(__name__).error(
