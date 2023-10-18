@@ -120,6 +120,11 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
+                text="📱 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📱", url=f"https://graph.org/file/74ca89358e2e7e8275d5e.jpg"
+                )
+        ],
+        [
+            InlineKeyboardButton(
                 text="▶️",
                 callback_data=f"ADMIN Pause|{chat_id}",
             ),
@@ -149,7 +154,8 @@ def telegram_markup_timer(_, chat_id, played, dur):
             )
         ],
         [           
-            
+            InlineKeyboardButton(
+                text="📱 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📱", url=f"https://graph.org/file/74ca89358e2e7e8275d5e.jpg"
             )
         ],
         [
@@ -172,7 +178,8 @@ def stream_markup(_, videoid, chat_id):
             )
         ],
         [           
-            
+            InlineKeyboardButton(
+                text="📱 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📱", url=f"https://graph.org/file/74ca89358e2e7e8275d5e.jpg"
             )
         ],
         [
@@ -217,7 +224,8 @@ def telegram_markup(_, chat_id):
             )
         ],
         [           
-            
+            InlineKeyboardButton(
+                text="📱 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📱", url=f"https://graph.org/file/74ca89358e2e7e8275d5e.jpg"
             )
         ],
         [
@@ -388,7 +396,8 @@ def queue_markup(_, videoid, chat_id):
             )
         ],
         [           
-            
+            InlineKeyboardButton(
+                text="📱 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📱", url=f"https://graph.org/file/74ca89358e2e7e8275d5e.jpg"
             )
         ],
         [
@@ -433,7 +442,8 @@ def telegram_markup(_, chat_id):
             )
         ],
         [           
-            
+            InlineKeyboardButton(
+                text="📱 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📱", url=f"https://graph.org/file/74ca89358e2e7e8275d5e.jpg"
             )
         ],
         [
