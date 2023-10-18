@@ -35,6 +35,10 @@
 
 [![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)]([https://github.com/NITISHSHARMA143123/cocktail12) 
 
+
+#### [THIS ALSO FOR HEROKU](https://heroku.com/deploy?template=https://github.com/NITISHSHARMA143123/cocktail12) 
+
+
 ## VPS To DEPLOY                                                                                          
 💥 𝐎𝐧𝐥𝐲 𝐅𝐨𝐫 𝐅𝐢𝐫𝐬𝐭 𝐓𝐢𝐦𝐞 (𝐕𝐏𝐒) 💞
 
