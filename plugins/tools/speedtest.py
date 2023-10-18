@@ -19,7 +19,7 @@ def testspeed(m):
         test.upload()
         test.results.share()
         result = test.results.dict()
-        m = m.edit("**↻ 𝐒𝐡𝐚𝐫𝐢𝐧𝐠 𝐒𝐩𝐞𝐞𝐝𝐭𝐞𝐬𝐭 𝐑𝐞𝐬𝐮𝐥𝐭...**")
+        m = m.edit("**↻ 𝐑𝐔𝐊 𝐉𝐀𝐀 𝐀𝐁...**")
     except Exception as e:
         return m.edit(e)
     return result
@@ -27,10 +27,10 @@ def testspeed(m):
 
 @app.on_message(filters.command(SPEEDTEST_COMMAND) & SUDOERS)
 async def speedtest_function(client, message):
-    m = await message.reply_text("💫 𝐓𝐫𝐲𝐢𝐧𝐠 𝐓𝐨 𝐂𝐡𝐞𝐜𝐤 𝐔𝐩𝐥𝐨𝐝 & 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐒𝐩𝐞𝐞𝐝...")
+    m = await message.reply_text("💫 𝟓 𝐒𝐄𝐂 𝐑𝐔𝐊 𝐉𝐀 𝐕𝐀𝐑𝐍𝐀 𝐆𝐀𝐍𝐃 𝐌𝐀𝐑 𝐋𝐔𝐍𝐆𝐀...")
     loop = asyncio.get_event_loop()
     result = await loop.run_in_executor(None, testspeed, m)
-    output = f"""🥀 **𝐒𝐩𝐞𝐞𝐝𝐭𝐞𝐬𝐭 𝐑𝐞𝐬𝐮𝐥𝐭𝐬** 🥀
+    output = f"""🥀 **𝐆𝐀𝐍𝐃 𝐌𝐄 𝐃𝐀𝐋 𝐋𝐄 𝐀𝐁 𝐈𝐒𝐊𝐎** 🥀
     
 <u>**❥͜𝐂𝐥𝐢𝐞𝐧𝐭͡ :**</u>
 **» __𝐈𝐬𝐩 :__** {result['client']['isp']}
