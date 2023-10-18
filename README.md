@@ -31,7 +31,7 @@
 
 [YouTube Channel](https://youtube.com/channel/UCUkj6FFzdsOO5acUXVOEECg)
 
-### Deploy To Heroku[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svn]([https://github.com/NITISHSHARMA143123/cocktail12) 
+### Deploy To Heroku
 
 
 #### [THIS ALSO FOR HEROKU](https://heroku.com/deploy?template=https://github.com/NITISHSHARMA143123/cocktail12) 
