@@ -14,7 +14,8 @@ def song_markup(_, vidid):
             ),
         ],
         [           
-            
+            InlineKeyboardButton(
+                text="📱 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📱", url=f"https://graph.org/file/74ca89358e2e7e8275d5e.jpg"
             ),
         ],
         [
