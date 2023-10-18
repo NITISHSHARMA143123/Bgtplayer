@@ -71,8 +71,9 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 text="💖 𝐆𝐫𝐨𝐮𝐩 💖", url=config.SUPPORT_GROUP
             )
         ],
-        [           
-            
+        [          
+            InlineKeyboardButton(
+                text="📱 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📱", url=f"https://graph.org/file/74ca89358e2e7e8275d5e.jpg"
             )
         ],
         [
