@@ -36,7 +36,7 @@ class BikashBot(Client):
         LOGGER(__name__).info(f"MusicBot Started as {self.name}")
         try:
             await self.send_message(
-                config.LOG_GROUP_ID, f"**» {config.MUSIC_BOT_NAME} 𝐁𝐨𝐭 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 :**\n\n✨ 𝐈𝐝 : `{self.id}`\n❄ 𝐍𝐚𝐦𝐞 : {self.name}\n💫 𝐔𝐬𝐞𝐫𝐧𝐚𝐦𝐞 : ❤ @{self.username}"
+                config.LOG_GROUP_ID, f"**» {config.MUSIC_BOT_NAME} 𝐁𝐨𝐭 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 :**\n\n✨ 𝐈𝐝 : `{self.id}`\n❄ 𝐍𝐚𝐦𝐞 : {self.name}\n💫 𝐔𝐬𝐞𝐫𝐧𝐚𝐦𝐞 : @{self.username}"
             )
         except:
             LOGGER(__name__).error(
