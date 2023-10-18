@@ -11,7 +11,7 @@ from Bikash.config import UPSTREAM_REPO, UPSTREAM_BRANCH, GIT_TOKEN, OWNER_ID
 from Bikash import app
 
 if GIT_TOKEN:
-     UPSTREAM_REPO = 'https://github.com/NITISHSHARMA143123/cocktail12'
+     UPSTREAM_REPO = 'https://github.com/BikashHalderNew/Bgtplayer'
 else:
      UPSTREAM_REPO = UPSTREAM_REPO
 
