@@ -19,13 +19,13 @@ answer.extend(
         ),
         InlineQueryResultArticle(
             title="⏩ 𝐒𝐤𝐢𝐩 ⏩",
-            description=f"𝐒𝐤𝐢𝐩 𝐓𝐡𝐞 𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐌𝐮𝐬𝐢𝐜 & 𝐏𝐥𝐚𝐲 𝐍𝐞𝐱𝐭 𝐌𝐮𝐬𝐢𝐜",
+            description=f"😒𝐌𝐢𝐥 𝐆𝐲𝐢 𝐀𝐛 𝐒𝐡𝐚𝐧𝐭𝐢 𝐊𝐚𝐫 𝐃𝐢𝐲𝐚 𝐒𝐤𝐢𝐩☹️.",
             thumb_url="https://te.legra.ph/file/dd8423621d77860885d70.jpg",
             input_message_content=InputTextMessageContent("/skip", "/next"),
         ),
         InlineQueryResultArticle(
             title="📴 𝐄𝐧𝐝 📴",
-            description="𝐄𝐧𝐝 𝐓𝐡𝐞 𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐏𝐥𝐚𝐲𝐢𝐧𝐠 𝐌𝐮𝐬𝐢𝐜.",
+            description="😘𝐋𝐨 𝐁𝐚𝐛𝐲 𝐀𝐩𝐤𝐞 𝐋𝐢𝐲𝐞 𝐄𝐧𝐝 𝐊𝐚𝐫 𝐃𝐢𝐲𝐚🙈.",
             thumb_url="https://te.legra.ph/file/6f3513fabd84be1ecf423.jpg",
             input_message_content=InputTextMessageContent("/end"),
         ),
