@@ -79,8 +79,8 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("venom_world_chatting_club")
-                await self.two.join_chat("venom_world_chatting_club")
+                await self.two.join_chat("BikashGadgetsTech")
+                await self.two.join_chat("BikashGadgetsTech")
             except:
                 pass
             assistants.append(2)
@@ -110,8 +110,8 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("venom_world_chatting_club")
-                await self.three.join_chat("venom_world_chatting_club")
+                await self.three.join_chat("BikashGadgetsTech")
+                await self.three.join_chat("BikashGadgetsTech")
             except:
                 pass
             assistants.append(3)
@@ -141,8 +141,8 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("venom_world_chatting_club")
-                await self.four.join_chat("venom_world_chatting_club")
+                await self.four.join_chat("BikashGadgetsTech")
+                await self.four.join_chat("BikashGadgetsTech")
             except:
                 pass
             assistants.append(4)
@@ -172,8 +172,8 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("venom_world_chatting_club")
-                await self.five.join_chat("venom_world_chatting_club")
+                await self.five.join_chat("BikashGadgetsTech")
+                await self.five.join_chat("BikashGadgetsTech")
             except:
                 pass
             assistants.append(5)
@@ -190,7 +190,7 @@ class Userbot(Client):
                 self.five.name = get_me.first_name
             try:
                 await self.five.send_message(
-                    config.LOG_GROUP_ID, f"**» {config.MUSIC_BOT_NAME} 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 𝐅𝐢𝐯𝐞 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 :**\n\n✨ 𝐈𝐝 : `{self.five.id}`\n❄ 𝐍𝐚𝐦𝐞 : {self.five.name}\n💫 𝐔𝐬𝐞𝐫𝐍𝐚𝐦𝐞 : @{self.five.username}\"
+                    config.LOG_GROUP_ID, f"**» {config.MUSIC_BOT_NAME} 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 𝐅𝐢𝐯𝐞 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 :**\n\n✨ 𝐈𝐝 : `{self.five.id}`\n❄ 𝐍𝐚𝐦𝐞 : {self.five.name}\n💫 𝐔𝐬𝐞𝐫𝐍𝐚𝐦𝐞 : @{self.five.username}"
                 )
             except:
                 LOGGER(__name__).error(
